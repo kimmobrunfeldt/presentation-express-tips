@@ -1,0 +1,11 @@
+{
+  "name": "presentation-express-tips",
+  "version": "1.0.0",
+  "main": "hello-world.js",
+  "author": "Kimmo Brunfeldt <kimmobrunfeldt@gmail.com> (http://kimmobrunfeldt.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0"
+  }
+}
